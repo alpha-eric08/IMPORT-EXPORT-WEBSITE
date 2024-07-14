@@ -18,7 +18,7 @@ const Contact = () => {
         <h1 className='text-left pt-8 pb-5 pl-1 md:pb-40 text-[#29D0D0]'>CONTACT US</h1>
       </div>
         <div className='flex justify-center'>
-          <h1 className='font-bold md:text-[55px] text-[30px]'>Contact Us</h1>
+          <h1 className='font-bold md:text-[55px] text-[30px] mt-20 md:mt-5'>Contact Us</h1>
         </div>
       </div>
 
