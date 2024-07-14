@@ -22,9 +22,22 @@ const Contact = () => {
         </div>
       </div>
 
+      {/* content */}
+      <div className='mt-8'>
+        <h1 className=' text-[#006E6E] font-bold lg:text-[50px] text-[30px] text-center md:w-[900px] mx-auto'><span className='border-b-[2.5px] border-[#14676B]'>Experience</span> Seamless Shipping Solutions with us.</h1>
+      </div>
+
       {/* Sections */}
-      <Address />
-      <Forms />
+      <div>
+        <div className='text-center pb-3 md:pb-9 md:w-[50%]'>
+          <h1 className='font-bold text-[24px] md:text-[32px] md:pt-12 pt-6   '>We would love to hear from you.</h1>
+          <p>Consult the services you need now!</p>
+        </div>
+        <div className='md:flex  justify-center gap-10'>
+          <Address />
+          <Forms />
+        </div>
+      </div>
       <GoogleMap />
     </div>
   )
