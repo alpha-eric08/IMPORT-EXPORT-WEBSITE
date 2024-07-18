@@ -15,6 +15,13 @@ import icon2 from './icon2.png';
 import icon3 from './icon3.png';
 import icon4 from './icon4.png';
 import icon5 from './icon5.png';
+import partner1 from './partner1.png';
+import partner2 from './partner2.png';
+import partner3 from './partner3.png';
+import partner4 from './partner4.png';
+import partner5 from './partner5.png';
+
+
 
 
 
@@ -35,5 +42,10 @@ export {
     image3,
     image4,
     image5,
-    image6
+    image6,
+    partner1,
+    partner2,
+    partner3,
+    partner4,
+    partner5
 }
